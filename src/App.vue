@@ -23,7 +23,7 @@ export default {
     return {
       name:'yense david ventura',
       jovi:'programar',
-      cambio:''
+      cambio:'',
     }
   },
   components: {
